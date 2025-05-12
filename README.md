@@ -1,13 +1,10 @@
 # MoneySaver – Personal Budgeting Tool (Java)
 
-MoneySaver is a console-based budgeting tool designed to help users track their monthly income, expenses, and savings. Built as part of my ITJava coursework, this project demonstrates object-oriented programming fundamentals, input handling, and basic financial calculations using Java.
+The Money Saver tool is a console-based budgeting tool designed to help users track their monthly utilites. Built as part of my Intro to Java coursework, this project demonstrates object-oriented programming fundamentals, input handling, and basic financial calculations using Java.
 
 ## Features
 
-- Prompt-based income and expense tracking
-- Calculates total monthly income, expenses, and remaining balance
-- Supports multiple budget categories
-- Simple, user-friendly command-line interface
+- Prompt-based utility tracking 
 - Data validation for accurate entries
 
 ## Technologies Used
@@ -20,6 +17,9 @@ MoneySaver is a console-based budgeting tool designed to help users track their 
 
 1. Clone the repository or download the `.java` file.
 2. Compile the Java file in your terminal or IDE:
+
+OR 
+Create a codespace to run the file(s)
 
 ```bash
 javac MoneySaver.java
